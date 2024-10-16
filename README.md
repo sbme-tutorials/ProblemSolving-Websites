@@ -46,9 +46,7 @@
 * VizDoom AI competition(VDAIC)
 
 #### Other
-* [ACM](https://www.acm.org/)
-* [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
-* Facebook Hackathon
+* [ICPC Egypt](https://icpc.global/regionals/finder/ECPCQ)
 * [Vodavone Hackathon](https://hackathon.vodafone.com.eg/)
 
 # Local Hackathons
