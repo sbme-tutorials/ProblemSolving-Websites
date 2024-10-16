@@ -22,9 +22,9 @@
 * **Resources:**
   * [HackTheBox](https://www.hackthebox.com/hacker/ctf)
   * [CTF101](https://ctf101.org/)
+  * [HackerOneCTF](https://ctf.hacker101.com/)
 * [picoCTF](https://picoctf.com/)
 * [HackerOne](https://www.hackerone.com/hacker101)
-* [HackerOneCTF](https://ctf.hacker101.com/)
 * [MetaHackerCup](https://www.facebook.com/codingcompetitions/hacker-cup)
 
 
