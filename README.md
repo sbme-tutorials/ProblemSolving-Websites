@@ -1,4 +1,4 @@
-# ProblemSolving-Websites
+# ProblemSolving
 
 ### Websites to practice
 
@@ -11,10 +11,12 @@
 * [ProjectEuler](https://projecteuler.net/) *Mathematics*
 
 
-### Online Competitions:
+# Online Competitions:
 
 #### Problem-Solving
+* [ICPC Egypt](https://icpc.global/regionals/finder/ECPCQ)
 * [IeeeXterme](https://ieeextreme.org/)
+* [Vodavone Hackathon](https://hackathon.vodafone.com.eg/)
 
 #### Cyber Security
 * **Resources:**
@@ -45,11 +47,7 @@
 * KDD Cup
 * VizDoom AI competition(VDAIC)
 
-#### Other
-* [ICPC Egypt](https://icpc.global/regionals/finder/ECPCQ)
-* [Vodavone Hackathon](https://hackathon.vodafone.com.eg/)
-
-# Local Hackathons
+# Hackathons
 * [Nasa Space Apps](https://www.spaceappschallenge.org/)
 * STP Mackathon
 * [ArabYouthHackathon](https://arabyouthhackathon.com/)
